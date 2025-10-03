@@ -1,9 +1,9 @@
 # Infiniti-Project
 
 ![banner](.github/backGround.png)
-
+<!-- 
 ![Infinite](https://www.instagram.com/infinite.uny/)
-![UNY](uny.ac.id)
+![UNY](uny.ac.id) -->
 
 ## Lab-Go (Laboratory On The Go)
 
@@ -19,7 +19,8 @@ Put to another use: Memanfaatkan data jadwal laboratorium
 Eliminate: Menghilangkan hambatan dalam menghubungi Laboran
 Reverse: Mengubah kebiasaan dalam menghubingi laboran melaui telepon → menjadi .melihat jadwal kosong
 
-** Daftar Tugas **
+**Daftar Tugas**
+
 | Tugas | Deskripsi |
 | --- | --- |
 |Charter|[x] Done |
